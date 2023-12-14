@@ -1,0 +1,5 @@
+Hi. I'm Jeeban Jyoti Patra, a passionate B.Tech student currently pursuing my studies at IIT Bhubaneswar in Odisha. Welcome to my digital space, where I'm thrilled to share my journey, creations, and aspirations with you.
+
+Ever since I can remember, I've been captivated by the world of technology and innovation. This fascination has driven me to continuously explore and innovate within the realm of computer science and engineering. Through the years, I've had the privilege of delving into a variety of projects and experiences, each contributing to my growth as a tech enthusiast and aspiring engineer.
+
+My approach to problem-solving and coding is characterized by a deep curiosity and determination to create meaningful solutions. I firmly believe in the power of collaboration and continuous learning, which shines through in every coding challenge I tackle. Whether it's developing efficient algorithms or crafting intuitive user interfaces, I am committed to delivering excellence and exceeding expectations.
