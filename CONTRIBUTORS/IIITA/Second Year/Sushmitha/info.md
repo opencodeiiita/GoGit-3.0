@@ -1,3 +1,3 @@
-Hey , I'm  Sushmitha
-Sophomore at IIIT Allahbad.
-This is my first contribution in opencode.
+ c
+
+ live site link: https://imsushmitha-13.github.io/portfolio-website/
