@@ -1,0 +1,2 @@
+
+Hey there! 👋 I'm Pavan—a quick and curious learner ready to dive into the thrilling world of OpenCode'23! 🌟
