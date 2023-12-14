@@ -1,0 +1,1 @@
+Hii I'm Kushal currently pursuing B-Tech in IIITA and I'm passionate about exploring 🔭 the latest technologies and applying them to solve problems.
