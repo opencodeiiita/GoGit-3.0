@@ -1,0 +1,1 @@
+"Hard work is worthless for those who don't believe in themselves" - Naruto Uzumaki
