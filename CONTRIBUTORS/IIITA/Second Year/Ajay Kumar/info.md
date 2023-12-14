@@ -1,7 +1,7 @@
 Hey, I'm Ajay Kumar, rocking my B.Tech at IIIT Allahabad. I'm all about the cool tech trifecta – web development, cybersecurity, and game development. When I'm not coding, you'll catch me binging anime, strategizing on the chessboard, and expressing myself through art. Life's a canvas, and I'm painting it with code and creativity! 🚀💻🎨
 
 
-My little portfolio link https://github.com/ajay484/GoGit-3.0.git
+My little portfolio link https://ajay484.github.io/opencode_contribution/
 
 
 
