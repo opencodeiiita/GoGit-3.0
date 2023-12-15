@@ -1,7 +1,4 @@
 Goodfellas
-<<<<<<< HEAD
-I like it because it is about gangsters.
-=======
+I like it because it is about gangsters..
 Henry Hill
 Paul Cicero
->>>>>>> feature
