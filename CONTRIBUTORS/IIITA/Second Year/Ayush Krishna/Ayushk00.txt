@@ -1,0 +1,8 @@
+John Wick
+<<<<<<< HEAD
+This movie is my favourite because it is full of action.
+This movie also has some of the coolest dialogue like "Rules are one which separate us from animals"
+=======
+john Wick
+Winston
+>>>>>>> feature
