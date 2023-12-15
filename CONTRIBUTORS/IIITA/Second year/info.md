@@ -1,1 +1,0 @@
-Hello.Namaste.Asalaamalaikum.Bonjour.Hola.Konnichiwa
