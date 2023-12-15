@@ -1,1 +1,3 @@
 Favourite movie: Mission Impossible 6: Fallout
+Character 1: Ethan Hunt
+Character 2: Benji
