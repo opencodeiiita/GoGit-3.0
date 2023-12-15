@@ -5,5 +5,9 @@ its quite interesting and inspiring.
 =======
 
 mahesh babu
+<<<<<<< HEAD
 jagapathi babu
+>>>>>>> feature
+=======
+jagapathibabu
 >>>>>>> feature
