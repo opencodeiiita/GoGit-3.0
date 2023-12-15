@@ -1,3 +1,8 @@
 Srimanthadu
+<<<<<<< HEAD
 this is my favourite as it potrays the characters very well
 this is very inspiring and lovely.
+=======
+mahesh babu
+jagapathi babu
+>>>>>>> feature
