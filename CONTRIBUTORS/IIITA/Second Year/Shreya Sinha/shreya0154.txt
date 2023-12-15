@@ -1,1 +1,4 @@
 Favourite Book - The Case Book of Sherlock Holmes
+Characters:
+1)Sherlock Holmes
+2)Dr. Watson
