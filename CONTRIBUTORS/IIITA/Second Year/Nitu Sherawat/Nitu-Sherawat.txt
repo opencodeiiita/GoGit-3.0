@@ -1,1 +1,3 @@
 Favourite movie : "XYZ".
+Character1: "A"
+Character2: "B"
