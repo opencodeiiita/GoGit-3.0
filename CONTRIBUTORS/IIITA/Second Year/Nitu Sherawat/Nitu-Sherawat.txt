@@ -1,0 +1,5 @@
+Favourite movie : "XYZ".
+No reason.
+No reason.
+Character1: "A"
+Character2: "B"
