@@ -5,3 +5,6 @@
 - 💬 Ask me about anything
 
 _POV: It's just my github Readme.md that I copied over here_ 😂
+
+## Portfolio
+This is the hosted github pages link of my portfolio: https://gautham-22.github.io/opencode-portfolio/
