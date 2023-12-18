@@ -1,3 +1,3 @@
 Hello!
-This is Rishika Boinapally
-I like singing, literature, dancing etc
+This is Aditya Verma
+I like playing badminton and watching good cinema.
