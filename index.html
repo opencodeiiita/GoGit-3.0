@@ -78,6 +78,15 @@
                     color: blueviolet;
                 }
 
+                #element{
+                     color: blueviolet;
+                }
+
+                .secondSection{
+                    max-width: 80vw;
+                    margin: auto;
+                }
+
                 
 
             </style>
@@ -106,12 +115,26 @@
                         <div>
                             and I am a Web Developer
                         </div>
+                        <span id="element"></span>
+
                     </div>
                     <div class="rightSection">
                        <img src="wd.png" alt="">
                     </div>
                 </section>
+
+                <section class="secondSection">
+                    <h1>Past experiences</h1>
+                </section>
             </main>
+            <script src="https://unpkg.com/typed.js@2.1.0/dist/typed.umd.js"></script>
+            <script>
+                var typed = new Typed('#element', {
+                  strings: ['Web developer', 'Web designer', 'Video editor'],
+                  typeSpeed: 50,
+                });
+              </script>
             
+
         </body>
         </html>
