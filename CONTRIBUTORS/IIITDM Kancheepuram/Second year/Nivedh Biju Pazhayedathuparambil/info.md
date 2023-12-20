@@ -1,1 +1,0 @@
-Hello myself Nivedh Biju Pazhayedathuparambil,as a B.Tech student at IIITDM Kancheepuram Computer science engineering. I love full stack development and competitive programming.
