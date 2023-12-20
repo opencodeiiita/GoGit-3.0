@@ -1,1 +1,0 @@
-Moyee Moyee bro, Meloni ko Modi legaya

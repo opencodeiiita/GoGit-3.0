@@ -1,3 +1,0 @@
-to be or not to be; that's the question....
-
-so here is the link for my web presence: https://thehackerash.github.io/mine-web/

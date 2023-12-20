@@ -1,1 +1,0 @@
-Hello, I'm Alan, a student aspiring to become a Full Stack Engineer. I'm eager to participate in this project and contribute to the open source community.
