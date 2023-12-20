@@ -23,6 +23,7 @@ main{
     gap:10px;
     justify-content: center;
     padding: 50px;
+    width: 80%;
 }
 
 h1{
