@@ -1,5 +1,1 @@
-Hello!
-This is Aditya Verma
-I like playing badminton and watching good cinema.
-
-Portfolio link : https://clumsydog09.github.io/GoGit-3.0_Portfolio/
+Hey I am Arpit Anand from IITA and I like to unistall and then reinstall instagram at least twice daily.
