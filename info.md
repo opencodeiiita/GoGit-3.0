@@ -1,1 +1,2 @@
-Hey I am Arpit Anand from IITA and I like to unistall and then reinstall instagram at least twice daily.
+Hii! This is Rahul Bansal, 2nd year student of IIITM Gwalior.
+I am a MERN Stack Developer.
