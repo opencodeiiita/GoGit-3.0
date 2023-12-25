@@ -1,1 +1,5 @@
   Portfolio Link- https://k7aditya.github.io/private-repos/
+
+Ans to the question-->
+In the past, Git commonly used the term "master" as the default branch name when initializing a new repository. This became a widely used convention across many Git repositories. However, the term "master" has been associated with historical and negative connotations, prompting the Git community and platforms like GitHub to move towards more inclusive language.
+To address this, GitHub has made changes to encourage more inclusive language by defaulting to the name "main" instead of "master" for the default branch. When you create a new repository on GitHub, the default branch is now named "main" instead of "master." This change is part of a broader initiative in the tech industry to promote diversity, equity, and inclusion.
