@@ -4,6 +4,4 @@
 - 👬 Looking to collaborate with any tech minds out there!
 - 👬 Always looking for open source contributions.
 
-  
-## Portfolio
-https://mannxxx.github.io/
+
