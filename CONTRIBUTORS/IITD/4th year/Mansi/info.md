@@ -6,4 +6,4 @@
 
   
 ## Portfolio
-https://mansi-manx.vercel.app/
+https://mannxxx.github.io/
