@@ -1,3 +1,1 @@
-Hello!
-This is Rishika Boinapally
-I like singing, literature, dancing etc
+Hey I am Arpit Anand from IITA and I like to unistall and then reinstall instagram at least twice daily.
