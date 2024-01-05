@@ -1,3 +1,8 @@
 Favourite Movie: Mission Mangal
+<<<<<<< HEAD
 Mission Mangal is a Hindi movie that dramatizes the story of the Indian Space Research Organisation’s (ISRO) Mars Orbiter Mission (MOM) in 2014. 
 The film highlights the lives of the scientists who made this almost-impossible dream come true.
+=======
+Rakesh Dhawan
+Tara Shinde
+>>>>>>> feature
